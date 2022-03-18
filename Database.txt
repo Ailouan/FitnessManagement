@@ -1,0 +1,60 @@
+Create Database Gym
+
+use Gym
+
+Create Table NewMember(
+	MID int primary key identity not null,
+	fname nvarchar(50) not null,
+	lname nvarchar(50) not null,
+	gender nvarchar(50) not null,
+	dob nvarchar(50) not null,
+	mobile nvarchar(50) not null,
+	email nvarchar(50) not null,
+	djoin nvarchar(50) not null,
+	gtime nvarchar(50) not null,
+	adress nvarchar(50) not null,
+	mship nvarchar(50) not null
+);
+delete NewMember where MID = 5
+
+insert into NewMember values ('khalid','Amri','Male','12-04-2002','0625874','khalid@gmail.com','02-03-2022','04Pm-05Pm','Narjiss fes','3 Month');
+insert into NewMember values ('Walid','Ajray','Male','12-04-2002','0625874','khalid@gmail.com','02-03-2022','04Pm-05Pm','Narjiss fes','3 Month');
+insert into NewMember values ('Mohamed','benani','Male','12-04-2002','0625874','khalid@gmail.com','02-03-2022','04Pm-05Pm','Narjiss fes','3 Month');
+insert into NewMember values ('wael','mkdis','Male','12-04-2002','0625874','khalid@gmail.com','02-03-2022','04Pm-05Pm','Narjiss fes','3 Month');
+
+select * from NewMember
+
+Create Table NewStaff(
+	MID int primary key identity not null,
+	fname nvarchar(50) not null,
+	lname nvarchar(50) not null,
+	gender nvarchar(50) not null,
+	dob nvarchar(50) not null,
+	mobile nvarchar(50) not null,
+	email nvarchar(50) not null,
+	djoin nvarchar(50) not null,
+	stat nvarchar(50) not null,
+	city nvarchar(50) not null
+);
+
+insert into NewStaff values ('khalid','Amri','Male','12-04-2002','0625874','khalid@gmail.com','02-03-2022','fes','maroc');
+insert into NewStaff values ('Walid','Ajray','Male','12-04-2002','0625874','khalid@gmail.com','02-03-2022','casa','maroc');
+insert into NewStaff values ('Mohamed','benani','Male','12-04-2002','0625874','khalid@gmail.com','02-03-2022','paris','france');
+insert into NewStaff values ('wael','mkdis','Male','12-04-2002','0625874','khalid@gmail.com','02-03-2022','berlin','allemend');
+
+select * from NewStaff
+
+Create Table Equipment(
+	MID int primary key identity not null,
+	Eqname nvarchar(50) not null,
+	descrip nvarchar(50) not null,
+	msu nvarchar(50) not null,
+	deliverydate nvarchar(50) not null,
+	const nvarchar(50) not null
+);
+
+insert into Equipment values ('Equi A','Muscilation','Mus1','12-02-2022','true');
+insert into Equipment values ('Equi B','Gemnastique','Mus2','01-04-2022','false');
+insert into Equipment values ('Equi C','Airobique','Mus3','01-06-2022','true');
+
+select * from Equipment

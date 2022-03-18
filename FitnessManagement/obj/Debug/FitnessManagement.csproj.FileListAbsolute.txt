@@ -1,0 +1,17 @@
+C:\Users\Acer\Desktop\FitnessManagement\FitnessManagement\obj\Debug\FitnessManagement.csprojAssemblyReference.cache
+C:\Users\Acer\Desktop\FitnessManagement\FitnessManagement\obj\Debug\FitnessManagement.Equipment.resources
+C:\Users\Acer\Desktop\FitnessManagement\FitnessManagement\obj\Debug\FitnessManagement.login.resources
+C:\Users\Acer\Desktop\FitnessManagement\FitnessManagement\obj\Debug\FitnessManagement.menu.resources
+C:\Users\Acer\Desktop\FitnessManagement\FitnessManagement\obj\Debug\FitnessManagement.NewMember.resources
+C:\Users\Acer\Desktop\FitnessManagement\FitnessManagement\obj\Debug\FitnessManagement.NewStaff.resources
+C:\Users\Acer\Desktop\FitnessManagement\FitnessManagement\obj\Debug\FitnessManagement.Properties.Resources.resources
+C:\Users\Acer\Desktop\FitnessManagement\FitnessManagement\obj\Debug\FitnessManagement.csproj.GenerateResource.cache
+C:\Users\Acer\Desktop\FitnessManagement\FitnessManagement\obj\Debug\FitnessManagement.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\FitnessManagement\FitnessManagement\bin\Debug\FitnessManagement.exe.config
+C:\Users\Acer\Desktop\FitnessManagement\FitnessManagement\bin\Debug\FitnessManagement.exe
+C:\Users\Acer\Desktop\FitnessManagement\FitnessManagement\bin\Debug\FitnessManagement.pdb
+C:\Users\Acer\Desktop\FitnessManagement\FitnessManagement\obj\Debug\FitnessManagement.exe
+C:\Users\Acer\Desktop\FitnessManagement\FitnessManagement\obj\Debug\FitnessManagement.pdb
+C:\Users\Acer\Desktop\FitnessManagement\FitnessManagement\obj\Debug\FitnessManagement.ViewEauipment.resources
+C:\Users\Acer\Desktop\FitnessManagement\FitnessManagement\obj\Debug\FitnessManagement.SearshMember.resources
+C:\Users\Acer\Desktop\FitnessManagement\FitnessManagement\obj\Debug\FitnessManagement.DeleteMember.resources
